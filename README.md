@@ -5,4 +5,4 @@ Run from the terminal with following command
 ```
 R -e "shiny::runApp('.../patent_app')"
 ```
-replacing ... with the full path to where you downloaded the app.
+replacing `...` with the full path to where you downloaded the app.
